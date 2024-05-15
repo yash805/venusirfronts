@@ -1,0 +1,5 @@
+1.jsx(javscript xml)
+2. Events
+3. states: used to store values . so we have to use useState hook to store values
+4. props: 
+5. 
